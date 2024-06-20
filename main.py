@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 st.title('My frist deployed DL model')
-st.header('Hrader đây chớ đâu')
+st.header('Header đây chớ đâu')
 st.text('Đây là text')
 st.markdown('Markdown đây **anh em ơi**')
 st.write('Còn dưới đây là latex')
